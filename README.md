@@ -12,3 +12,12 @@
 # hexo
 
 `_config.yml`文件说明
+
+
+# travis-ci
+token
+
+branch
+
+
+travis-ci
