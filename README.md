@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/lineuman/lineuman.github.io.svg?branch=master)](https://travis-ci.com/lineuman/lineuman.github.io)
+
 # lineuman.github.io
 [https://lineuman.github.io/](https://lineuman.github.io/)
 
@@ -18,6 +20,8 @@
 token
 
 branch
+
+Environment Variables
 
 
 travis-ci
