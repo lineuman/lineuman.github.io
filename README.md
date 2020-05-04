@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.com/lineuman/lineuman.github.io.svg?branch=master)](https://travis-ci.com/lineuman/lineuman.github.io)
 
 
 # GitHub Pages的站点类型有三种
@@ -13,7 +12,8 @@ http(s)://<user>.github.io/<repository> 或 http(s)://<organization>.github.io/<
 
 # GitHub Pages 站点的发布来源
 ```
-用户和组织站点的默认发布来源是 master 分支。 如果用户和组织站点的仓库是 master 分支，您的站点将从该分支自动发布。 您无法为用户或组织站点选择不同的发布来源。
+用户和组织站点的默认发布来源是 master 分支。 
+如果用户和组织站点的仓库是 master 分支，您的站点将从该分支自动发布。 您无法为用户或组织站点选择不同的发布来源。
 
 项目站点的默认发布来源是 gh-pages 分支。 如果项目站点的仓库有 gh-pages 分支，您的站点将从该分支自动发布。
 
@@ -31,17 +31,3 @@ http(s)://<user>.github.io/<repository> 或 http(s)://<organization>.github.io/<
 
 
 
-# hexo
-
-`_config.yml`文件说明
-
-
-# travis-ci
-token
-
-branch
-
-Environment Variables
-
-
-travis-ci
