@@ -1,6 +1,6 @@
 
 
-# GitHub Pages的站点类型有三种
+# GitHub Pages
 ```
 用户站点
 为了发布用户站点，你必须创建一个仓库，仓库的名字叫做<user>.github.io.
