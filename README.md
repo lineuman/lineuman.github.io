@@ -3,12 +3,17 @@
 # 👋 Welcome to Lineuman’Log
 
 ```
-用户站点
-为了发布用户站点，你必须创建一个仓库，仓库的名字叫做<user>.github.io.
-组织站点
-为了发布组织站点，您必须创建一个仓库，仓库名字叫做<organization>.github.io
-项目站点
-http(s)://<user>.github.io/<repository> 或 http(s)://<organization>.github.io/<repository>。
+User Site
+
+To make a main website for yourself, name is <user>.github.io.
+
+Organization Site (A Website for a Group)
+
+the name is like: <organization>.github.io
+
+Project Site (A Website for a Specific Project)
+
+http(s)://<user>.github.io/<repository> or http(s)://<organization>.github.io/<repository>。
 ```
 
 # GitHub Pages 站点的发布来源
