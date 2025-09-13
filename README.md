@@ -16,7 +16,7 @@ Project Site (A Website for a Specific Project)
 http(s)://<user>.github.io/<repository> or http(s)://<organization>.github.io/<repository>。
 ```
 
-# GitHub Pages 站点的发布来源
+# GitHub Pages publish source
 ```
 For Personal or Organization Sites:
 Your site must be in the master/main branch. It will publish automatically from this branch.
